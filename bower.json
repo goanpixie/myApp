@@ -1,0 +1,21 @@
+{
+  "name": "myApp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Priyanka <priyanka3007@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-route": "^1.6.3"
+  }
+}
